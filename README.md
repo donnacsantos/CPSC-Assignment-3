@@ -20,4 +20,4 @@ The possible hypotheses covered in this exercise are the following:
 src- python code
 data - data related to the project
 result - result/summary report
-doc- additional documentation (Detailed Report)
+doc- additional documentation (Detailed Report including the process of cleaning)
